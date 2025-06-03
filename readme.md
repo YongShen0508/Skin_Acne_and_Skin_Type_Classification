@@ -34,13 +34,14 @@ The following models were trained and tested on a labeled dataset of facial skin
 
 ### 📊 Results Summary
 
-| Model               | Accuracy | Precision | Recall |
-|--------------------|----------|-----------|--------|
-| CNN                | xx%      | xx%       | xx%    |
-| EfficientNetB0     | xx%      | xx%       | xx%    |
-| ResNet50           | xx%      | xx%       | xx%    |
-| YOLOv8             | xx%      | xx%       | xx%    |
-| ChatGPT API        | xx%      | xx%       | xx%    |
+| Model           | Training Accuracy | Validation Accuracy | Testing Accuracy |
+|-----------------|-------------------|---------------------|------------------|
+| CNN             | xx%               | xx%                 | xx%              |
+| EfficientNetB0  | xx%               | xx%                 | xx%              |
+| ResNet50        | xx%               | xx%                 | xx%              |
+| YOLOv8          | xx%               | xx%                 | xx%              |
+| ChatGPT API     | xx%               | xx%                 | xx%              |
+
 
 ### 🏆 Best Performing Model
 The **YOLOv8** model achieved the highest accuracy among all tested models and was selected as the core skin analysis model for subsequent stages of the system.
