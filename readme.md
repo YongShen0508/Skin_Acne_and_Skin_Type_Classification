@@ -23,8 +23,9 @@ The following models were trained and tested on a labeled dataset of facial skin
 - Utilized preprocessed facial images labeled with:
   - **Acne severity levels**: Level 0, Level 1, Level 2  
   - **Skin types**: Dry, Oily, Normal  
-- Split the dataset into **training** and **testing** sets  
-- Applied **data augmentation techniques** (e.g., flipping, rotation, brightness adjustment) to improve model generalization  
+- Split the dataset into **training** , **validation** and **testing** sets  
+- Applied **data augmentation techniques** (e.g., flipping, rotation, brightness adjustment) on training set  to improve model generalization
+- All images will be resized to a fixed shape of (224, 224).
 - Evaluated model performance using:
   - **Accuracy**
   - **Precision**
