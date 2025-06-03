@@ -40,3 +40,7 @@ The **YOLOv8** model achieved the highest accuracy among all tested models and w
 
 ### ✅ Status
 Objective 1 has been successfully completed. The most accurate and reliable model has been selected to power the skin condition evaluation component.
+
+---
+
+> **Note:** The source code and implementation details will be updated once the full program is completed.
