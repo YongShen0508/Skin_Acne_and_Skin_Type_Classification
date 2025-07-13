@@ -65,7 +65,7 @@ The following models were trained and tested on a labeled dataset of facial skin
     </tr>
     <tr>
       <td>YOLOv8</td>
-      <td colspan="2"></td>
+      <td colspan="1"></td>
       <td>70.0%</td>
       <td>64.0%</td>
     </tr>
