@@ -34,13 +34,14 @@ The following models were trained and tested on a labeled dataset of facial skin
 
 ### 📊 Results Summary
 
-| Model           | Training Accuracy | Validation Accuracy | Testing Accuracy |
-|-----------------|-------------------|---------------------|------------------|
-| CNN             | xx%               | xx%                 | xx%              |
-| EfficientNetB0  | xx%               | xx%                 | xx%              |
-| ResNet50        | xx%               | xx%                 | xx%              |
-| YOLOv8          | xx%               | xx%                 | xx%              |
-| ChatGPT API     | xx%               | xx%                 | xx%              |
+> Skin Acne Summary
+>| Model           | Training Accuracy | Validation Accuracy | Testing Accuracy |
+>|-----------------|-------------------|---------------------|------------------|
+>| CNN             | xx%               | xx%                 | xx%              |
+>| EfficientNetB0  | xx%               | xx%                 | xx%              |
+>| ResNet50        | xx%               | xx%                 | xx%              |
+>| YOLOv8          | xx%               | xx%                 | xx%              |
+>| ChatGPT API     |                   --                    | xx%              |
 
 
 ### 🏆 Best Performing Model
