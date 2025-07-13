@@ -65,11 +65,12 @@ The following models were trained and tested on a labeled dataset of facial skin
       </tr>
       <tr>
         <td>YOLOv8</td>
-        <td colspan="3" style="text-align: center;">Training + Validation Accuracy: 70.0% &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Testing Accuracy: 64.0%</td>
+        <td colspan="2">70.0%</td>
+        <td>64.0%</td>
       </tr>
       <tr>
         <td>ChatGPT API</td>
-        <td colspan="2" style="text-align: center;">--</td>
+        <td colspan="2">--</td>
         <td>43.0%</td>
       </tr>
     </tbody>
@@ -112,7 +113,7 @@ The following models were trained and tested on a labeled dataset of facial skin
     </tr>
     <tr>
       <td>CHATGPT API</td>
-      <td colspan="2"></td>
+      <td colspan="2">--</td>
       <td>44.0%</td>
     </tr>
     
