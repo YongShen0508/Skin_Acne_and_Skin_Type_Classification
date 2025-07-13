@@ -89,35 +89,35 @@ The following models were trained and tested on a labeled dataset of facial skin
 >  </thead>
 >  <tbody>
 >    <tr>
-      <td>Classic CNN</td>
-      <td>51.8%</td>
-      <td>50.0%</td>
-      <td>47.0%</td>
-    </tr>
-    <tr>
-      <td>ResNet50</td>
-      <td>67.7%</td>
-      <td>69.5%</td>
-      <td>60.4%</td>
-    </tr>
-    <tr>
-      <td>EfficientNetB0</td>
-      <td>67.4%</td>
-      <td>60.0%</td>
-      <td>71.3%</td>
-    </tr>
-    <tr>
-      <td>YOLOv8</td>
-      <td colspan="2">80.0%</td>
-      <td>76.2%</td>
-    </tr>
-    <tr>
-      <td>CHATGPT API</td>
-      <td colspan="2">--</td>
-      <td>44.0%</td>
-    </tr>
-    
-  </tbody>
+>      <td>Classic CNN</td>
+>      <td>51.8%</td>
+>      <td>50.0%</td>
+>      <td>47.0%</td>
+>    </tr>
+>    <tr>
+>      <td>ResNet50</td>
+>      <td>67.7%</td>
+>      <td>69.5%</td>
+>      <td>60.4%</td>
+>    </tr>
+>    <tr>
+>      <td>EfficientNetB0</td>
+>      <td>67.4%</td>
+>      <td>60.0%</td>
+>      <td>71.3%</td>
+>    </tr>
+>    <tr>
+>      <td>YOLOv8</td>
+>      <td colspan="2">80.0%</td>
+>      <td>76.2%</td>
+>    </tr>
+>    <tr>
+>      <td>CHATGPT API</td>
+>      <td colspan="2">--</td>
+>      <td>44.0%</td>
+>    </tr>
+>    
+>  </tbody>
 > </table>
 
 
