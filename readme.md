@@ -36,7 +36,7 @@ The following models were trained and tested on a labeled dataset of facial skin
 
 > ## Skin Acne Summary
 <div style="text-align: center;">
-  <table border="1" cellspacing="0" cellpadding="8" style="margin: auto; text-align: center;">
+  <table border="1" cellspacing="0" cellpadding="8" style="margin: auto; border-collapse: collapse;">
     <thead>
       <tr>
         <th>Model</th>
@@ -64,19 +64,20 @@ The following models were trained and tested on a labeled dataset of facial skin
         <td>56.1%</td>
         <td>49.3%</td>
       </tr>
+      <!-- Use colspan="3" to span Training + Validation + Testing -->
       <tr>
         <td>YOLOv8</td>
-        <td colspan="2" style="text-align: center; width: 100%;">70.0%</td>
-        <td>64.0%</td>
+        <td colspan="3" style="text-align: center;">Training + Validation Accuracy: 70.0% &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Testing Accuracy: 64.0%</td>
       </tr>
       <tr>
         <td>ChatGPT API</td>
-        <td colspan="2"></td>
+        <td colspan="2" style="text-align: center;">--</td>
         <td>43.0%</td>
       </tr>
     </tbody>
   </table>
 </div>
+
 ### 🏆 Best Performing Model
 The **YOLOv8** model achieved the highest accuracy among all tested models and was selected as the core skin analysis model for subsequent stages of the system.
 
