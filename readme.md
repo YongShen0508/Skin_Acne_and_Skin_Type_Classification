@@ -44,6 +44,47 @@ The following models were trained and tested on a labeled dataset of facial skin
 | YOLOv8          |                 70.0%                    | 64.0%            |
 | ChatGPT API     |                  --                      | 43.0%            |
 
+<table>
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>Training Accuracy</th>
+      <th>Validation Accuracy</th>
+      <th>Testing Accuracy</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CNN</td>
+      <td>45.3%</td>
+      <td>43.0%</td>
+      <td>36.0%</td>
+    </tr>
+    <tr>
+      <td>EfficientNetB0</td>
+      <td>80.0%</td>
+      <td>56.0%</td>
+      <td>56.5%</td>
+    </tr>
+    <tr>
+      <td>ResNet50</td>
+      <td>60.8%</td>
+      <td>56.1%</td>
+      <td>49.3%</td>
+    </tr>
+    <tr>
+      <td>YOLOv8</td>
+      <td colspan="1"></td>
+      <td>70.0%</td>
+      <td>64.0%</td>
+    </tr>
+    <tr>
+      <td>ChatGPT API</td>
+      <td colspan="2"></td>
+      <td>43.0%</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 🏆 Best Performing Model
 The **YOLOv8** model achieved the highest accuracy among all tested models and was selected as the core skin analysis model for subsequent stages of the system.
