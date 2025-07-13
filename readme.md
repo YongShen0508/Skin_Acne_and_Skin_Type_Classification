@@ -35,7 +35,7 @@ The following models were trained and tested on a labeled dataset of facial skin
 ### 📊 Results Summary
 
 > ## Skin Type Summary
-> <table border="1" cellspacing="0" cellpadding="8" style="margin: auto; border-collapse: collapse;">
+> <table>
 >  <thead>
 >    <tr>
 >        <th>Model</th>
@@ -78,7 +78,7 @@ The following models were trained and tested on a labeled dataset of facial skin
 
   
 > ## Skin Acne Summary
-><table border="1" cellspacing="0" cellpadding="8" style="margin: auto; border-collapse: collapse; text-align: center;">
+><table>
 >  <thead>
 >    <tr>
 >      <th>Model</th>
