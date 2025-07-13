@@ -78,17 +78,17 @@ The following models were trained and tested on a labeled dataset of facial skin
 
   
 > ## Skin Acne Summary
-<table border="1" cellspacing="0" cellpadding="8" style="margin: auto; border-collapse: collapse; text-align: center;">
-  <thead>
-    <tr>
-      <th>Model</th>
-      <th>Training Accuracy</th>
-      <th>Validation Accuracy</th>
-      <th>Testing Accuracy</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+><table border="1" cellspacing="0" cellpadding="8" style="margin: auto; border-collapse: collapse; text-align: center;">
+>  <thead>
+>    <tr>
+>      <th>Model</th>
+>      <th>Training Accuracy</th>
+>      <th>Validation Accuracy</th>
+>      <th>Testing Accuracy</th>
+>    </tr>
+>  </thead>
+>  <tbody>
+>    <tr>
       <td>Classic CNN</td>
       <td>51.8%</td>
       <td>50.0%</td>
@@ -118,7 +118,7 @@ The following models were trained and tested on a labeled dataset of facial skin
     </tr>
     
   </tbody>
-</table>
+> </table>
 
 
 ### 🏆 Best Performing Model
