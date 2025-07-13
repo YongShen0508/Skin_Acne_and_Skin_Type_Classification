@@ -35,7 +35,7 @@ The following models were trained and tested on a labeled dataset of facial skin
 ### 📊 Results Summary
 
 > ## Skin Type Summary
-<table border="1" cellspacing="0" cellpadding="8" style="margin: auto; border-collapse: collapse;">
+> <table border="1" cellspacing="0" cellpadding="8" style="margin: auto; border-collapse: collapse;">
   <thead>
     <tr>
         <th>Model</th>
