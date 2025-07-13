@@ -35,15 +35,6 @@ The following models were trained and tested on a labeled dataset of facial skin
 ### 📊 Results Summary
 
 > ## Skin Acne Summary
-
-| Model           | Training Accuracy | Validation Accuracy | Testing Accuracy |
-|-----------------|-------------------|----------------------|------------------|
-| CNN             | 45.3%             | 43.0%                | 36.0%            |
-| EfficientNetB0  | 80.0%             | 56.0%                | 56.5%            |
-| ResNet50        | 60.8%             | 56.1%                | 49.3%            |
-| YOLOv8          |                 70.0%                    | 64.0%            |
-| ChatGPT API     |                  --                      | 43.0%            |
-
 <table>
   <thead>
     <tr>
@@ -74,7 +65,7 @@ The following models were trained and tested on a labeled dataset of facial skin
     </tr>
     <tr>
       <td>YOLOv8</td>
-      <td colspan="1"></td>
+      <td colspan="2"></td>
       <td>70.0%</td>
       <td>64.0%</td>
     </tr>
